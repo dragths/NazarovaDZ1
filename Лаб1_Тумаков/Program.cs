@@ -29,7 +29,7 @@ namespace Лаб1_Тумаков
 
             /* Console.WriteLine("Домашнее задание 2.1");
             char c = Convert.ToChar(Console.ReadLine());
-            if ((c == 'z') || (c == 'Z'))
+            if ((c == 'z') || (c == 'Z') || (c == 'Я') || (c == 'я'))
             {
                 Console.WriteLine("Нет последущей буквы");
             }
